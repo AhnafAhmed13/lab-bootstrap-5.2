@@ -1,1 +1,33 @@
 /* Add custom css styles here */
+
+
+header {
+    background-image: url("../images/coffee-biscuits.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+#title {
+    background: #00000090;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#about {
+    background-color: #0000000c;
+    width: 100%;
+}
+
+footer {
+    color: white;
+    background-color:#046EFD;
+}
+
+#lorem {
+    text-align: left;
+}
