@@ -2,20 +2,18 @@
 
 
 header {
+    color: white;
     background-image: url("../images/coffee-biscuits.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
-    min-height: 300px;
     display: flex;
     justify-content: center;
 }
 
 #title {
+    min-height: 200px;
     background: #00000090;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: 100px;
 }
 
 #about {
